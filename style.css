@@ -31,7 +31,16 @@ p {
 
 .choices {
   color: black;
-  font-weight: ;
+  font-family: sans-serif;
+  margin-left: 5px;
+}
+
+.likelihood {
+  margin-right: 10px;
+}
+
+.toppings {
+  margin-right: 10px;
 }
 
 #form {
